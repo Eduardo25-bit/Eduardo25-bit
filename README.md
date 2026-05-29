@@ -10,7 +10,7 @@
 
 Olá! Me chamo Eduardo e sou um estudante apaixonado por tecnologia, focado em ingressar na área de Desenvolvimento Web. Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas (ADS)** e dedicando meus estudos práticos à construção de projetos utilizando **HTML** e **CSS**.
 
-Além da programação, dedico um tempo diário ao estudo intenso do **Inglês**, buscando expandir minhas fronteiras de conhecimento e me preparar para o mercado de tecnologia. Meu foco no momento é construir uma base sólida no Front-End, organizar minha rotina de entregas e evoluir continuamente.
+Acredito muito no poder da disciplina e do aprendizado contínuo. Por isso, além da faculdade e da programação, mantenho uma rotina diária de estudos de inglês para expandir minhas habilidades e me preparar para os desafios do mercado de tecnologia.
 
 ### 🎓 Formação
 
