@@ -22,7 +22,7 @@ Busco minha primeira oportunidade como Desenvolvedor Front-End (estágio ou jún
 
 ### 📇 Contato
 
-*   **E-mail:** [eduardogermano106@gmail.com]
+*   **E-mail:** eduardogermano106@gmail.com
 *   **LinkedIn:** [https://www.linkedin.com/in/this-eduardo](https://www.linkedin.com/in/this-eduardo)
 
 ### 💻 Linguagens e Tecnologias
