@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Eduardo Germano!
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas <br>
-💻 Desenvolvedor Front-End em formação
+💻 Desenvolvedor Front-End em formação <br>
 📍 Contagem, MG - Brasil
 
 ---
