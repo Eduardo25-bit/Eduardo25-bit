@@ -33,12 +33,3 @@ Busco minha primeira oportunidade como Desenvolvedor Front-End (estágio ou jún
 </div>
 
 <br>
-
-### 📊 Estatísticas
-
-### 📊 Estatísticas
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Eduardo25-bit&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo25-bit&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
-</div>
